@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_Timer", "B_Timer\B_Timer.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_Progress", "B_Progress\B_Progress.csproj", "{C06CC2CB-E1A4-402C-9330-E7F6AC4A1BB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_FontControll", "B_FontControll\B_FontControll.csproj", "{4C750D78-B933-4241-9A94-E6F8F862FBE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C06CC2CB-E1A4-402C-9330-E7F6AC4A1BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C06CC2CB-E1A4-402C-9330-E7F6AC4A1BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C06CC2CB-E1A4-402C-9330-E7F6AC4A1BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C750D78-B933-4241-9A94-E6F8F862FBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C750D78-B933-4241-9A94-E6F8F862FBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C750D78-B933-4241-9A94-E6F8F862FBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C750D78-B933-4241-9A94-E6F8F862FBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
