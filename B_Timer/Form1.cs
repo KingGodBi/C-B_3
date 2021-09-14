@@ -18,11 +18,6 @@ namespace B_Timer
             InitializeComponent();
         }
         int CountOrgNum = 0; // 초기 카운터
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnCount_Click(object sender, EventArgs e)
         {
             if (IntCheck() == true)

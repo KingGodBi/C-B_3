@@ -74,9 +74,10 @@ namespace B_Timer
             this.Controls.Add(this.btnCount);
             this.Controls.Add(this.txtCountDown);
             this.Controls.Add(this.txtNum);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "타이머";
             this.ResumeLayout(false);
             this.PerformLayout();
 
